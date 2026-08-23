@@ -510,7 +510,7 @@ function showWarning() {
             </p>
 
             <p>
-                Please continue at your own risk. 😌
+                Please continue at your own risk Moon. 😌
             </p>
 
             <button id="continueBtn">
