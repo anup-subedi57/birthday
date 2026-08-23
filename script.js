@@ -709,23 +709,23 @@ function showFinalMessage() {
                 </div>
 
                 <p>
-                    You are so uniquely beautiful,
+                    You are so uniquely beautiful, confidence
                     and I hope you understand that
-                    no one else wears a smile quite like yours.
+                    no one else wears a smile quite like yours. 
                 </p>
 
                 <p>
                     You are passionate, kind, and a light
                     in other people's lives. And even though
                     the world can be cruel sometimes,
-                    you always find a way to shine.
+                    you always find a way to shine. Never get distracted by small things, you have alot potential use them wisely. No matter how many problems are you dealing with, i konw you are that girl who can face them with smile.
                 </p>
 
                 <p>
                     Never forget how special you are,
                     and never stop being the person
                     who brings a little more light
-                    into the world.
+                    into the world. 
                 </p>
 
                 <div class="letter-ending">
