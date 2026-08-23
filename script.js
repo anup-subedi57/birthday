@@ -611,12 +611,12 @@ function startMemoryGallery() {
 
         {
             image: "photo3.jpg",
-            caption: "Your Beautiful smile hides alot inside babe. ❤️"
+            caption: "Your Beautiful smile, hides alot inside babe. ❤️"
         },
 
         {
             image: "photo4.jpg",
-            caption: "Keep faith in yourselg, never lose your grip. 🥂❤️"
+            caption: "Keep faith in yourself, never lose your grip. 🥂❤️"
         }
 
     ];
