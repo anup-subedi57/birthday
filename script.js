@@ -567,7 +567,7 @@ function showPage4() {
                 <div class="photo-card">
 
                     <img
-                        src="images/photo1.jpg"
+                        src="photo0.jpeg"
                         alt="Memory 1"
                     >
 
