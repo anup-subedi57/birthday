@@ -600,22 +600,22 @@ function startMemoryGallery() {
     const memories = [
 
         {
-            image: "images/photo1.jpg",
+            image: "photo1.jpg",
             caption: "One of those moments I'll always remember. ❤️"
         },
 
         {
-            image: "images/photo2.jpg",
+            image: "photo2.jpg",
             caption: "Some memories just hit differently. 🥹"
         },
 
         {
-            image: "images/photo3.jpg",
+            image: "photo3.jpg",
             caption: "And somehow, this one still makes me smile. ❤️"
         },
 
         {
-            image: "images/photo4.jpg",
+            image: "photo4.jpg",
             caption: "Here's to many more memories together. 🥂❤️"
         }
 
