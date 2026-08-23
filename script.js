@@ -601,22 +601,22 @@ function startMemoryGallery() {
 
         {
             image: "photo.jpg",
-            caption: "One of those moments I'll always remember. ❤️"
+            caption: "You look more preetier in simple dress. ❤️"
         },
 
         {
             image: "photo2.jpg",
-            caption: "Some memories just hit differently. 🥹"
+            caption: "Your eyes and long hair, naturally captivating . 🥹"
         },
 
         {
             image: "photo3.jpg",
-            caption: "And somehow, this one still makes me smile. ❤️"
+            caption: "Your Beautiful smile hides alot inside babe. ❤️"
         },
 
         {
             image: "photo4.jpg",
-            caption: "Here's to many more memories together. 🥂❤️"
+            caption: "Keep faith in yourselg, never lose your grip. 🥂❤️"
         }
 
     ];
