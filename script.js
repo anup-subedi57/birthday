@@ -572,8 +572,8 @@ function showPage4() {
                     >
 
                     <p>
-                        One of those moments
-                        I'll always remember. ❤️
+                        You look more preetier
+                        in simple dress. ❤️
                     </p>
 
                 </div>
