@@ -567,7 +567,7 @@ function showPage4() {
                 <div class="photo-card">
 
                     <img
-                        src="photo0.jpeg"
+                        src="photo.jpg"
                         alt="Memory 1"
                     >
 
@@ -600,7 +600,7 @@ function startMemoryGallery() {
     const memories = [
 
         {
-            image: "photo0.jpeg",
+            image: "photo.jpg",
             caption: "One of those moments I'll always remember. ❤️"
         },
 
